@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@aetherial/aetherial-vue": "0.0.40",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "phoenix": "1.4.12",
     "register-service-worker": "^1.6.2",
